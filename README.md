@@ -4,6 +4,7 @@ _____________________________
 ## Objetivos
 
 Entender, a través de un caso práctico, cómo crear estructuras en la web con html y a darle estilos con css
+
 Enunciado
 
 Al igual que hemos hecho antes, es hora de aplicar los conceptos aprendidos para resolver problemas reales.
