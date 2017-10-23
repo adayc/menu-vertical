@@ -1,1 +1,1 @@
-alert('Bienvenido al menú vertical');
+alert('Bienvenido  al menÃº vertical');
