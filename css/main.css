@@ -1,0 +1,49 @@
+body{
+    font-family: sans-serif; /*Asignando sans-serif a toda la página*/
+}
+
+nav{
+    width: 200px;
+}
+ul{
+    list-style: none;/*Quitandole la viñeta a la lista*/
+    margin: 0; /*Sacando el margin y el padding de acuerdo al navegador*/
+    padding: 0;
+        line-height: 30px; /*espacio entre lineas*/
+
+}
+
+a{
+    display: block;
+    text-decoration:none;
+    color: #000;
+    padding-left: 10px;
+}
+
+a:hover{
+    background: #e0e0d1;/*Se asigna el color cuando el cursor este sobre el link*/
+}
+
+a:active{
+    background: #333;/*Se asigna el color cuando le damos clic al link*/
+    color: white;
+}
+li{
+    background: #f5f5f0;/*Colocando fondo a cada elemento de la lista*/
+}
+
+ul li:first-child{
+    background: #f9a91a;    /*Asignandole color de fondo al primer hijo de <ul>*/
+}
+
+ul li:first-child a{
+    color: white;  
+}
+
+ul li:first-child a:hover{
+    color: black;  
+}
+ul li:first-child a:active{
+    color: white;  
+    background: #333;
+}
