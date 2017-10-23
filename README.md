@@ -1,5 +1,5 @@
-# Menú de navegación
-____________________
+# Menú de navegación vertical
+_____________________________
 
 ## Objetivos
 
@@ -11,9 +11,7 @@ Al igual que hemos hecho antes, es hora de aplicar los conceptos aprendidos para
 Imagina que estás creando tu primera web interactiva y quieres hacerle un menú de navegación. 
 Tu equipo de diseño te ha pasado estos demos para que repliques:
 
-### Menú horizontal
 
-![recursos](horizontal/assets/imgs/menuhor.gif)
 
 ### Menú vertical
-![recursos](vertical/assets/imgs/menuver.gif)
+![recursos](assets/imgs/menuver.gif)
